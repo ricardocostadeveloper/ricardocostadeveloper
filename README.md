@@ -11,7 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=ricardocostadeveloper" height="150" alt="languages graph"  />
 </div>
 
-
 - 🔭 I’m currently working on [ASTRO 4.0](https://github.com/Visteon-Manaus/astro4.0)
 
 - 🌱 I’m currently learning **API, React ect.**
@@ -19,8 +18,6 @@
 - 💬 Ask me about **PHP, VueJs**
 
 - 📫 How to reach me **ricardocostadev95@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
