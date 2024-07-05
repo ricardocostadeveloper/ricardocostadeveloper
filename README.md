@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **PHP, VueJs**
 
-- 📫 How to reach me **ricardocostadev95@gmail.com**
+- 📫 How to reach me **https://ricardo-costa-portfolio.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
