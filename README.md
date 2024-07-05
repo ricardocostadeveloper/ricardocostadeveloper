@@ -48,5 +48,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-cunha-costa/)](https://www.linkedin.com/in/ricardo-cunha-costa/)
-[![Gmail Badge](https://img.shields.io/badge/-ricardocostadev95@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ricardocostadev95@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ricardocostadev95@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardocostadev95@gmail.com)](mailto:ricardocostadev95@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/ricardocostadeveloper?label=follow&style=social)](https://github.com/ricardocostadeveloper)
+[![Portfolio](https://img.shields.io/badge/-https://ricardo-costa-portfolio.vercel.app/-006bed?style=flat-square&link=mailto:SEU-EMAIL)](https://ricardo-costa-portfolio.vercel.app/)
