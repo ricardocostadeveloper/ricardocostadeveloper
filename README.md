@@ -11,7 +11,6 @@
 
 **Aplicações e dados**
 
-![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=nestjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
