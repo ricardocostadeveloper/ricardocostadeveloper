@@ -48,9 +48,17 @@ const skills = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricardocostadeveloper&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+### 📊 Métricas Profissionais
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardocostadeveloper&layout=compact&theme=transparent&hide_border=true&langs_count=6)
+**7+ anos** de experiência | **100+** projetos entregues | **Múltiplas** tecnologias
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ricardocostadeveloper&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardocostadeveloper&theme=minimal&hide_border=true&custom_title=Contribution%20Activity)
 
 <br/>
 
