@@ -48,11 +48,12 @@ const skills = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ricardocostadeveloper&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocostadeveloper&layout=compact&theme=minimal&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardocostadeveloper&show_icons=true&theme=minimal&hide_border=true&count_private=true)](https://github.com/ricardocostadeveloper)
 
-<br/><br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocostadeveloper&layout=compact&theme=minimal&hide_border=true&langs_count=6)](https://github.com/ricardocostadeveloper)
 
-<img src="https://komarev.com/ghpvc/?username=ricardocostadeveloper&style=flat-square&color=lightgrey" alt="Profile views" />
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ricardocostadeveloper&style=flat-square&color=lightgrey)
 
 </div>
