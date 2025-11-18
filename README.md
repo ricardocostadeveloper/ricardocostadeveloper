@@ -2,13 +2,15 @@
 
 # Ricardo Costa
 
-### Full Stack Developer | Computer Engineer
+**Full Stack Developer** | **Computer Engineer**
 
 *Desenvolvendo soluções escaláveis há mais de 7 anos*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-cunha-costa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ricardo-costa-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ricardocostadev95@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/ricardo-cunha-costa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://ricardo-costa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:ricardocostadev95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
