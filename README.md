@@ -48,20 +48,27 @@ const skills = {
 
 <div align="center">
 
-### 📊 Métricas Profissionais
+### Estatísticas
 
-**7+ anos** de experiência | **100+** projetos entregues | **Múltiplas** tecnologias
+<table>
+  <tr>
+    <td align="center">
+      <strong>7+</strong><br/>
+      Anos de Experiência
+    </td>
+    <td align="center">
+      <strong>100+</strong><br/>
+      Projetos Entregues
+    </td>
+    <td align="center">
+      <strong>10+</strong><br/>
+      Tecnologias
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ricardocostadeveloper&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
-
-<br/>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardocostadeveloper&theme=minimal&hide_border=true&custom_title=Contribution%20Activity)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=ricardocostadeveloper&style=flat-square&color=555555)
+<sub>Focado em projetos privados e soluções empresariais</sub>
 
 </div>
