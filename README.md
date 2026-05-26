@@ -28,19 +28,17 @@ Hoje meu foco tecnico esta em desenvolvimento de produtos com stack moderna, sem
 - Infra e Ferramentas: Docker, Git, GitHub, Postman, Linux, CI/CD
 - Integracoes: ESP32, comunicacao em tempo real e automacao industrial
 
-## Projeto em Destaque
+## Projetos e Entregas
 
-### Album Digital Interativo - Copa 2026
+Atuacao em projetos full stack com foco em resultado de negocio, qualidade tecnica e evolucao continua:
 
-Projeto full stack com arquitetura de produto e regras de negocio gamificadas:
+- Aplicacoes web corporativas para automacao de processos e aumento de eficiencia operacional
+- Plataformas internas com autenticacao segura, controle de acesso e regras de negocio complexas
+- APIs e integracoes em tempo real para comunicacao entre sistemas e dispositivos
+- Dashboards e modulos analiticos para suporte a decisao em ambientes industriais e administrativos
+- Modernizacao de sistemas legados com melhoria de performance, manutencao e escalabilidade
 
-- Autenticacao via JWT com cookie HttpOnly
-- Inventario de figurinhas e sistema de troca entre usuarios
-- Drag and drop com dnd-kit
-- Animacoes e transicoes com Framer Motion
-- Persistencia e modelagem com Prisma
-
-Stack do projeto: Next.js 15, TypeScript, Prisma, Tailwind CSS, Docker
+Stack recorrente nesses projetos: Next.js, TypeScript, Node.js, Laravel, Prisma, MySQL, Tailwind CSS, Docker e WebSockets
 
 ## Experiencia
 
