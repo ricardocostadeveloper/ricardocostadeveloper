@@ -1,74 +1,69 @@
 <div align="center">
 
-# Ricardo Costa
+# Ricardo Cunha Costa
 
-**Full Stack Developer** | **Computer Engineer**
+**Full Stack Developer** | **Engenheiro da Computacao**
 
-*Desenvolvendo soluções escaláveis há mais de 7 anos*
+Desenvolvendo solucoes escalaveis para industria e produtos digitais ha mais de 8 anos
 
-<br/>
-
-<a href="https://www.linkedin.com/in/ricardo-cunha-costa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://ricardo-costa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:ricardocostadev95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ricardo-cunha-costa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://ricardo-costa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:ricardocostadev95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-### Sobre
+## Sobre
 
-Desenvolvedor Full Stack na **Visteon Amazonas**, especializado em otimização de processos industriais através de soluções tecnológicas escaláveis. Experiência com múltiplas linguagens e frameworks, focado em arquitetura de software e performance.
+Atuo como Desenvolvedor Full Stack na Visteon Amazonas, criando solucoes para automacao de processos, integracao de sistemas e ganhos de eficiencia operacional. Tenho experiencia em ambientes industriais e governamentais, com foco em performance, confiabilidade e evolucao continua.
 
-### Tech Stack
+Hoje meu foco tecnico esta em desenvolvimento de produtos com stack moderna, sem perder a base solida em sistemas corporativos legados.
 
-```javascript
-const skills = {
-  frontend: ['JavaScript', 'TypeScript', 'React', 'Vue.js', 'HTML5', 'CSS3', 'Tailwind'],
-  backend: ['Node.js', 'NestJS', 'PHP', 'Laravel', 'Python'],
-  database: ['MySQL', 'PostgreSQL', 'MongoDB'],
-  tools: ['Git', 'Docker', 'Postman', 'Figma', 'VS Code']
-}
-```
+## Stack Atual
 
-### Experiência
+- Frontend: Next.js 15, React, TypeScript, Tailwind CSS, Framer Motion
+- Backend: Node.js, NestJS, Laravel, PHP, APIs REST, JWT, WebSockets
+- Dados: Prisma ORM, MySQL, PostgreSQL, SQLite
+- Infra e Ferramentas: Docker, Git, GitHub, Postman, Linux, CI/CD
+- Integracoes: ESP32, comunicacao em tempo real e automacao industrial
 
-**Visteon Amazonas** · Full Stack Developer  
-`2018 - Presente`
+## Projeto em Destaque
 
-- Desenvolvimento de sistemas para automação de processos industriais
-- Arquitetura de soluções escaláveis com múltiplas tecnologias
-- Projetos de grande escala no setor automotivo
+### Album Digital Interativo - Copa 2026
 
-### Atualmente Estudando
+Projeto full stack com arquitetura de produto e regras de negocio gamificadas:
 
-`Cloud Computing` · `Data Science` · `Software Architecture`
+- Autenticacao via JWT com cookie HttpOnly
+- Inventario de figurinhas e sistema de troca entre usuarios
+- Drag and drop com dnd-kit
+- Animacoes e transicoes com Framer Motion
+- Persistencia e modelagem com Prisma
+
+Stack do projeto: Next.js 15, TypeScript, Prisma, Tailwind CSS, Docker
+
+## Experiencia
+
+Visteon Amazonas - Full Stack Developer  
+2021 - Atual
+
+SEMAD (Secretaria Municipal de Administracao) - Full Stack Developer  
+2018 - 2021
+
+## Objetivo Atual
+
+Busco oportunidades para atuar em projetos de alto impacto como Desenvolvedor Full Stack, contribuindo com arquitetura, qualidade tecnica e entrega de valor ao negocio.
 
 ---
 
 <div align="center">
 
-### Estatísticas
+## Indicadores
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>7+</strong><br/>
-      Anos de Experiência
-    </td>
-    <td align="center">
-      <strong>100+</strong><br/>
-      Projetos Entregues
-    </td>
-    <td align="center">
-      <strong>10+</strong><br/>
-      Tecnologias
-    </td>
-  </tr>
-</table>
+| Experiencia | Foco | Atuacao |
+| --- | --- | --- |
+| 8+ anos | Full Stack | Industria e setor publico |
 
-<br/>
-
-<sub>Focado em projetos privados e soluções empresariais</sub>
+<sub>Grande parte dos projetos e privada e nao aparece publicamente no GitHub.</sub>
 
 </div>
